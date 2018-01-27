@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?> <jnlp spec="1.0+" codebase="http://wnt.ecc.edu/streller/cs209Demos/cs209Lab11_wiley" href="taxpayer.jnlp"> <information> <title>TaxpayerFX App Testing</title> <vendor>Kathryn</vendor> <homepage href="http://wnt.ecc.edu/streller/" /> <description>Testing Taxpayer FX App</description> </information> <security> <all-permissions/> </security> <resources> <j2se version="1.6+" /> <jar href="cs209Lab10.jar" /> </resources> <application-desc main-class="Lab8.TaxpayerFX_driver" /> </jnlp>
+ 
+
